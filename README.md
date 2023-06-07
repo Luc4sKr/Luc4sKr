@@ -7,8 +7,6 @@
   <img width="41%" height="210px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luc4sKr&langs_count=16&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
-![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Luc4sKr&theme=gotham)
-
 ### Main skills
 ![C#](https://img.shields.io/badge/-cSharp-0D1117?style=for-the-badge&logo=csharp&logoColor=purple&labelColor=0D1117)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=Python&logoColor=#002750&labelColor=0D1117)&nbsp;
